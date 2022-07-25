@@ -7,3 +7,5 @@
 - All pages and blog entries feature canonical urls
 - All pages feature meta tags
 
+#### Links
+https://my.skilldisplay.eu/en/skillset/516
