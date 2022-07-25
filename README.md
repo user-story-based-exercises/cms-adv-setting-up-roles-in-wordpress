@@ -30,7 +30,7 @@
 - A demonstration subscriber exists
 - The subscriber has a secure password
 - 2 content entries which are only available to subscribers exist
-- Posting on the site is limited to subscribers (and higher access level users)
+- Posting on the site is limited to subscribers (and users with a higher access level)
 
 #### Links
 https://my.skilldisplay.eu/en/skillset/516
