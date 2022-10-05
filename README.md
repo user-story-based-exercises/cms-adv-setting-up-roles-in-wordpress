@@ -23,7 +23,7 @@
 - The contributor has a secure password
 - An unpublished post created by the contributor featuring scenario based mockup content exist
 
-## User Story 3
+## User Story 4
 *As a Developer, I want to set up a demonstration account for a subscriber, so that I can preview the restricted backend area to the customer.*
 
 ### Acceptance Criteria
